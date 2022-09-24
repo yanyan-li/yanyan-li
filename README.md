@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 ![tasks](venom.gif)
 
 ### :fire: My Stats :
-[stats](https://github-readme-streak-stats.herokuapp.com/?user=yanyan-li)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yanyan-li)
