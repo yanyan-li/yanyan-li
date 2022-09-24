@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### I'm a Ph.D. student focusing on camera pose estimation, mapping, and scene understanding at technical University of München. 
 <!--
 **yanyan-li/yanyan-li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+venom.gif
