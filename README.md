@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... 
 ---
 
-### :fire: My Stats :
+
 -->
 ![tasks](venom.gif)
+
+### :fire: My Stats :
+[stats](https://github-readme-streak-stats.herokuapp.com/?user=yanyan-li)
