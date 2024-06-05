@@ -1,6 +1,7 @@
 ### Hi there 👋
-### I'm a Ph.D. student focusing on camera pose estimation, mapping, and scene understanding at Technical University of München. 
-#### My future research interests are SLAM for different sensors, NeRF-SLAM and reinforcement learning. 
+### I'm a Research Fellow at National University of Singapore. And I did my Ph.D. and master projects at Technical University of München and Peking University, respectively.
+
+#### My research interests are tracking, mapping, rendering and understanding in unknown scenes.  
 <!--
 **yanyan-li/yanyan-li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
