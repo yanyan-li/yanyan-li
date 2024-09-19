@@ -1,5 +1,4 @@
 ### Hi there 👋
-### I'm a Research Fellow at National University of Singapore. And I did my Ph.D. and master projects at Technical University of München and Peking University, respectively.
 
 #### My research interests are tracking, mapping, rendering and understanding in unknown scenes.  
 <!--
