@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-#### My research interests are tracking, mapping, rendering and understanding in unknown scenes.  
+#### My research interests are tracking (SLAM), mapping (Reconstruction), rendering (NeRF&Gaussian Splatting) and understanding (Scene Graph) in unknown scenes.
+
 <!--
 **yanyan-li/yanyan-li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,13 +17,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... 
 ---
 
-
--->
 ![tasks](venom.gif)
+-->
+
 
 ---
 
+<!--
 ### :fire: My Stats :
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yanyan-li)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanyan-li&layout=compact&theme=vision-friendly-dark)](https://github.com/yanyan-li/github-readme-stats)
+-->
