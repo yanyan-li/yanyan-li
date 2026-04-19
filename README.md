@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-#### My research interests are tracking (SLAM), mapping (Reconstruction), rendering (NeRF&Gaussian Splatting) and understanding (Scene Graph) in unknown scenes.
+
+
+## Open Positions 🎓
+
+I am actively recruiting **PhD and MPhil students, research assistants, and interns** to join the **Embedded Spatial AI Lab at HKUST(GZ)**, starting from **Fall 2026** and **Spring 2027**.
+
+If you are interested in **Spatial AI, SLAM, 3D/4D scene representation, Gaussian Splatting, or Embodied Intelligence**, feel free to contact me via email.
 
 <!--
 **yanyan-li/yanyan-li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
